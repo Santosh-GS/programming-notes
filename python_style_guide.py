@@ -39,8 +39,8 @@ pip install -U scikit-learn
 
 FLAT CASE:
 all lower caps with no spaces
-not used, avoid
-myvariablename
+rarely used, only for packages
+mypackage
 
 COBOL CASE:
 upper snake case with dashes
