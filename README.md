@@ -1,2 +1,2 @@
 # programming-notes
-Basic notes for various programming languages
+A basic and specific personal notes for various programming languages
