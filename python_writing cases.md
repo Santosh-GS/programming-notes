@@ -1,7 +1,7 @@
 # Python Writing Cases
 
 A quick guide on various writing cases and the places where the case is used in Python  
-Conventions are based on PEP 8 Style Guide available at https://peps.python.org/pep-0008/
+Conventions are based on PEP 8 Style Guide available at https://peps.python.org/pep-0008/ or https://pep8.org/
 
 ### Snake Case:
 lower caps with underscores  
