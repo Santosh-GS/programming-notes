@@ -45,5 +45,5 @@ Based on PEP 8 style guide : https://peps.python.org/pep-0008/ or https://pep8.o
 ### References:
 https://youtu.be/D4_s3q038I0
 
-### Full Guide
+### Full Guide:
 A comprehensive style guide is available at https://gist.github.com/RichardBronosky/454964087739a449da04
