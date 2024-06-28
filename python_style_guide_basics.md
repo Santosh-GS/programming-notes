@@ -1,6 +1,6 @@
 # General Guidelines
 A quick guide on few general and specific guidelines in Python   
-Based on PEP 8 style guide : https://peps.python.org/pep-0008/ or https://pep8.org/
+Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.org/
 
 * Limit each line to 80 characters
 * Indent using 4 Spaces
