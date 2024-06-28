@@ -48,6 +48,6 @@ upper snake case with dashes
 not used usually  
 `MY-VARIABLE-NAME`
 
-### Video References Used:  
+### Video References:  
 https://www.youtube.com/watch?v=D4_s3q038I0  
 https://www.youtube.com/watch?v=uet8ZQpyJV8  
