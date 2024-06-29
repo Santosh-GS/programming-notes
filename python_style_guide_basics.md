@@ -33,7 +33,7 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
   `x = None`  
   `if x is None: do_this()`
 * `if foo is not x:`  
-  `if not foo is x:` (equivalent to `not (foo is x)` but not `(not foo) is x`  
+  `if not foo is x:` (equivalent to `not (foo is x)` but not `(not foo) is x`)  
   both are equivalent but prefer the former one as `is not` kinda acts like a single operator  
   <br>
 * Except a specific exception instead of empty except error in try-except statements  
