@@ -35,7 +35,7 @@ used to declare variable in other languages like java, cpp, etc.
 snake case with dashes  
 used while installing packages  
 `pip install opencv-python`  
-`pip install pandas-datareader (but "import pandas_datareader" while importing)`  
+`pip install pandas-datareader` (but `import pandas_datareader` while importing)  
 `pip install -U scikit-learn`  
 
 ### Flat Case:
