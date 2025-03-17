@@ -4,13 +4,13 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
 
 * Limit each line to 80 characters
 * Indent using 4 Spaces
-* Keep object names as descriptive as possible
+* Keep object and variable names as descriptive as possible
 * Be consistent with single and double quotes for strings and characters
 * Preferably use one space around operators  
   Except while showing precedence of operators and for default values in function parameter declaration  
   `final_sum = a*b + c*d`  
   `def my_color_function(color="black", imag=0.0):`
-* Conventionally use `self` for method, `cls` for classmethod, `*args` and `**kwargs` when using
+* Conventionally, use `self` for method, `cls` for classmethod, `*args` and `**kwargs`
 * Seperate any top level classes and function with 2 blank lines and nested ones with 1 blank line  
   <br>
 * Import everything at top and import one module per line (after module docstring)
@@ -25,7 +25,7 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
 * start writing in the same line of docstring initiation  
   <br>
 * Use 2 spaces before `#` in one-liner (in-line) comments and 1 space after `#`
-* Mostly white space goes after a comma except between a trailing comma and closing paranthesis  
+* Mostly white space goes after a comma except between a trailing comma and closing parantheses  
   `foo = (0,)`  
  `my_list = [1, 2, 3]`  
   <br>
