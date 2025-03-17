@@ -42,7 +42,7 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
   `if not foo is x:` (equivalent to `not (foo is x)` but not `(not foo) is x`)  
   both are equivalent but prefer the former one as `is not` kinda acts like a single operator  
   <br>
-* Except a specific exception instead of empty except error in `try-except` statements  
+* Always catch specific exceptions in `try-except` statements rather than using an empty except clause
   <br>
 * `if foo.startswith("bar"):`  (Preferred)  
   `if foo[:3] == "bar":`  
