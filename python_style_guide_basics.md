@@ -49,7 +49,7 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
   prefer `.startswith` or `.endswith` instead of slice (allegedly for better accuracy and performance)  
 
 ### References:
-[Write Python Code Properly!](https://www.youtube.com/watch?v=uet8ZQpyJV8)   
+[Write Python Code Properly!](https://www.youtube.com/watch?v=D4_s3q038I0)   
 [My 5 "Clean" Code Principles](https://www.youtube.com/watch?v=kfyo-N-xAwE)   
 
 ### Full Guide:
