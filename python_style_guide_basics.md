@@ -13,7 +13,7 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
 * Single Responsibility Principle:   
   Try to give single task for a function or object   
   Prefer multiple small tasked functions over a long multi tasking function
-* Assign variables or a data structure to repeatly used values in order to allow easier modifiications later   
+* Assign variables or a data structure to repeatly used values to allow easier modifiications later   
   <br>
 * Import everything at top and import one module per line (after module docstring)
 * While importing from a single module, import multiple in the same line  
