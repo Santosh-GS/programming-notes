@@ -49,5 +49,5 @@ not used usually
 `MY-VARIABLE-NAME`
 
 ### Video References:  
-https://www.youtube.com/watch?v=D4_s3q038I0  
-https://www.youtube.com/watch?v=uet8ZQpyJV8  
+[Write Python Code Properly!](https://www.youtube.com/watch?v=D4_s3q038I0)  
+[Python Case Types and Naming Conventions](https://www.youtube.com/watch?v=uet8ZQpyJV8)   
