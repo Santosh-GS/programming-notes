@@ -6,8 +6,8 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
 * Indent using 4 Spaces
 * Keep object and variable names as descriptive as possible   
   Prioritize well descriptive variable names over use of explanatory comments
-* Follow appropriate naming cases [Reference](https://github.com/Santosh-GS/programming-notes/blob/main/python_naming_cases.md)   
-* Be consistent with single and double quotes for strings and characters
+* Follow appropriate naming cases [Reference](https://github.com/Santosh-GS/programming-notes/blob/main/python_naming_cases.md)
+* Be consistent with single and double quotes for characters and strings
 * Conventionally, use `self` for method, `cls` for classmethod, `*args` and `**kwargs`
 * Seperate any top level classes and function with 2 blank lines and nested ones with 1 blank line
 * Avoid deep nesting of conditionals or loops whenever possible
