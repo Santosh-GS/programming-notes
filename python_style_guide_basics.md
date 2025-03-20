@@ -27,7 +27,7 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
 * Module docstring goes before imports
 * Start writing docstring content in the initiating line itself (right after initial triple quotes)  
   <br>
-* Use 2 spaces before `#` for in-line comments and 1 space after `#``
+* Use 2 spaces before `#` for in-line comments and 1 space after `#`
 * A white space goes after a comma except in case of a trailing comma or closing parantheses   
   `foo = (0,)`  
   `my_list = [1, 2, 3]`
