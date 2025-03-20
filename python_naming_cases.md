@@ -1,6 +1,6 @@
-# Python Writing Cases
+# Python Naming Cases
 
-A quick guide on various writing cases and the places where the case is used in Python  
+A quick guide on various naming cases and the places where the case is used in Python  
 Conventions are based on PEP 8 Style Guide available at https://peps.python.org/pep-0008/ or https://pep8.org/
 
 ### Snake Case:
