@@ -27,7 +27,7 @@ Based on PEP 8 Style Guide : https://peps.python.org/pep-0008/ or https://pep8.o
   <br>
 * Use triple double-quotes for docstring
 * Module docstring goes before imports
-* Start writing docstring content in the same line of triple quotes when only one-liner description is given  
+* Start writing docstring content in the same line of triple quotes when only one-liner description is being given  
   `""" This is a single line docstring """`  
   `"""`  
   `Docstring in multiple lines`  
